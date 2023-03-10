@@ -11,6 +11,7 @@ desktop.ini
 
 # Custom
 /run
+/bin
 /build
 
 # Compiled class file
