@@ -24,7 +24,7 @@ minecraft {
 }
 
 jar {
-    archiveName = "${project.name}-${minecraft.version}-${version}.jar"
+    archiveName = "${project.name}-${version}-for-MC-${minecraft.version}.jar"
 }
 
 processResources
