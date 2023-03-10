@@ -10,6 +10,7 @@ desktop.ini
 ._*
 
 # Custom
+/run
 /build
 
 # Compiled class file
