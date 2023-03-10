@@ -19,7 +19,7 @@ desktop.ini
 
 # Log file
 *.log
-*.gradle
+.gradle
 
 # BlueJ files
 *.ctxt
